@@ -1,2 +1,1 @@
-# CampoMinado-2
-Interface Grafica
+# Campo Minado-2 (Interface Grafica)
