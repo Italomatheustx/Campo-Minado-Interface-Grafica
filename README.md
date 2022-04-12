@@ -1,1 +1,1 @@
-# Campo Minado-2 (Interface Grafica)
+é o mesmo do anterior, mas em nesse projeto foi utilizado a interface gráfica.
